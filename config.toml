@@ -1,9 +1,10 @@
 languageCode = "de-ch"
 title = "Motorfluggruppe Thurgau - MFGT"
-baseURL = "https://mfgt2018.netlify.com/"
+baseURL = "https://mfgt-2019.netlify.com/"
 theme = "mfgt-2019"
 googleanalytics = ""
 disqusShortname = "mfgt"
+defaultContentLanguage = "de"
 
 # [params]
   # set below parameter to define a favicon
