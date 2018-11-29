@@ -1,0 +1,20 @@
+languageCode = "de-ch"
+title = "Motorfluggruppe Thurgau - MFGT"
+baseURL = "https://mfgt2018.netlify.com/"
+theme = "mfgt-2019"
+googleanalytics = ""
+disqusShortname = "mfgt"
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     foldername = "post"
+#     pagesize = "6"
+#     featuredpost = "true"
+
+[languages]
+[languages.de]
+  languageName = "Deutsch"

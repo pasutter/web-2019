@@ -1,0 +1,4 @@
+[submodule "mfgt-2019"]
+	path = themes/mfgt-2019
+	url = https://github.com/lszt/hugo-theme-massively
+	branch = mfgt-2019

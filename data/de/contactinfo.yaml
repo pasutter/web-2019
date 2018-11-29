@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: 'Flugplatz'
+- line: '9506 Lommis'
+
+phone: '+41 52 366 33 33'
+
+email: 'info@mfgt.ch'
