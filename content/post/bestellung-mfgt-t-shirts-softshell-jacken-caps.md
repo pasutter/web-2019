@@ -2,6 +2,7 @@
 title: Bestellung MFGT T-Shirts / Softshell Jacken / Caps
 date: 2019-02-18T15:38:51.388Z
 description: Weitere Infos hier
+image: /images/uploads/screenshot-from-2019-02-13-17-55-12.png
 ---
 [Hier](https://docs.google.com/forms/d/e/1FAIpQLSeWetyYJtqfEUNFsJVAnZywZgLYAlLl80mA39ITU_cz6FB_7w/viewform) könnt Ihr das MFGT T-Shirt, die Softshell Jacke und die MFGT Caps bestellen.
 
